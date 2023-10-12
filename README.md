@@ -1,17 +1,6 @@
 # jpa02-ivan512az
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f23/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-f23/STARTER-jpa02
-
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
-
+Repo: https://github.com/ucsb-cs156-f23/jpa02-ivan512az
 
 Deployed at: http://jpa02-ivan512az.dokku-11.cs.ucsb.edu/
 
